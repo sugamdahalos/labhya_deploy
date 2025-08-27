@@ -4,7 +4,7 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('api', '0008_add_hostkey'),
+    ('api', '0008_hostkey'),
     ]
 
     operations = [
