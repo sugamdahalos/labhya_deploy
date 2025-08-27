@@ -8879,3 +8879,25 @@ Exception Value: no such table: api_hostkey
 2025-08-27 14:58:16,116 - __main__ - WARNING - Session polling failed: 403
 2025-08-27 14:58:21,121 - __main__ - WARNING - Session polling failed: 403
 2025-08-27 14:58:28,319 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 14:58:31,445 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 14:58:33,327 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 14:58:38,335 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 14:58:43,342 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 14:58:48,349 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 14:58:53,358 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 14:58:58,366 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 14:59:03,228 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 14:59:03,374 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 14:59:08,381 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 14:59:13,388 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 14:59:18,395 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 14:59:23,402 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 14:59:28,407 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 14:59:33,412 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 14:59:35,002 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 14:59:38,419 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 14:59:43,426 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 14:59:48,432 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 14:59:53,436 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 14:59:58,442 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 15:00:03,446 - __main__ - WARNING - Session polling failed: 403
