@@ -1,0 +1,168 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  /* Updated to RTX GPU theme with NVIDIA colors and gradients */
+  --background: oklch(0 0 0); /* Deep Black */
+  --foreground: oklch(1 0 0); /* White */
+  --card: oklch(0.1 0 0); /* Charcoal Gray */
+  --card-foreground: oklch(1 0 0); /* White */
+  --popover: oklch(0.05 0 0); /* Semi-transparent black */
+  --popover-foreground: oklch(1 0 0); /* White */
+  --primary: oklch(0.65 0.15 130); /* Electric Green #76B900 */
+  --primary-foreground: oklch(0 0 0); /* Black */
+  --secondary: oklch(0.55 0.2 250); /* Electric Blue #007BFF */
+  --secondary-foreground: oklch(1 0 0); /* White */
+  --muted: oklch(0.1 0 0); /* Charcoal Gray */
+  --muted-foreground: oklch(0.7 0 0); /* Light Gray */
+  --accent: oklch(0.6 0.25 300); /* Neon Purple #8A2BE2 */
+  --accent-foreground: oklch(1 0 0); /* White */
+  --destructive: oklch(0.6 0.3 25); /* Red */
+  --destructive-foreground: oklch(1 0 0); /* White */
+  --border: oklch(0.2 0 0); /* Dark border */
+  --input: oklch(0.15 0 0); /* Dark input */
+  --ring: oklch(0.65 0.15 130 / 0.5); /* Green ring with transparency */
+  --chart-1: oklch(0.65 0.15 130); /* Electric Green */
+  --chart-2: oklch(0.55 0.2 250); /* Electric Blue */
+  --chart-3: oklch(0.6 0.25 300); /* Neon Purple */
+  --chart-4: oklch(0.6 0.3 25); /* Red */
+  --chart-5: oklch(1 0 0); /* White */
+  --radius: 0.5rem;
+  --sidebar: oklch(0.1 0 0); /* Dark sidebar */
+  --sidebar-foreground: oklch(1 0 0); /* White */
+  --sidebar-primary: oklch(0.65 0.15 130); /* Electric Green */
+  --sidebar-primary-foreground: oklch(0 0 0); /* Black */
+  --sidebar-accent: oklch(0.6 0.25 300); /* Neon Purple */
+  --sidebar-accent-foreground: oklch(1 0 0); /* White */
+  --sidebar-border: oklch(0.2 0 0); /* Dark border */
+  --sidebar-ring: oklch(0.65 0.15 130 / 0.5); /* Green ring */
+
+  /* Added custom RTX gradient variables */
+  --gradient-rtx: linear-gradient(135deg, oklch(0.65 0.15 130), oklch(0.55 0.2 250));
+  --gradient-rtx-hover: linear-gradient(135deg, oklch(0.7 0.18 130), oklch(0.6 0.25 250));
+  --gradient-hero: linear-gradient(180deg, oklch(0 0 0), oklch(0.1 0.05 130));
+  --gradient-card: linear-gradient(145deg, oklch(0.08 0 0), oklch(0.12 0.02 130));
+  --glow-green: 0 0 20px oklch(0.65 0.15 130 / 0.3);
+  --glow-blue: 0 0 20px oklch(0.55 0.2 250 / 0.3);
+  --glow-purple: 0 0 20px oklch(0.6 0.25 300 / 0.3);
+}
+
+.dark {
+  /* Dark mode maintains the same RTX theme */
+  --background: oklch(0 0 0);
+  --foreground: oklch(1 0 0);
+  --card: oklch(0.1 0 0);
+  --card-foreground: oklch(1 0 0);
+  --popover: oklch(0.05 0 0);
+  --popover-foreground: oklch(1 0 0);
+  --primary: oklch(0.65 0.15 130);
+  --primary-foreground: oklch(0 0 0);
+  --secondary: oklch(0.55 0.2 250);
+  --secondary-foreground: oklch(1 0 0);
+  --muted: oklch(0.1 0 0);
+  --muted-foreground: oklch(0.7 0 0);
+  --accent: oklch(0.6 0.25 300);
+  --accent-foreground: oklch(1 0 0);
+  --destructive: oklch(0.6 0.3 25);
+  --destructive-foreground: oklch(1 0 0);
+  --border: oklch(0.2 0 0);
+  --input: oklch(0.15 0 0);
+  --ring: oklch(0.65 0.15 130 / 0.5);
+  --chart-1: oklch(0.65 0.15 130);
+  --chart-2: oklch(0.55 0.2 250);
+  --chart-3: oklch(0.6 0.25 300);
+  --chart-4: oklch(0.6 0.3 25);
+  --chart-5: oklch(1 0 0);
+  --sidebar: oklch(0.05 0 0);
+  --sidebar-foreground: oklch(1 0 0);
+  --sidebar-primary: oklch(0.65 0.15 130);
+  --sidebar-primary-foreground: oklch(0 0 0);
+  --sidebar-accent: oklch(0.6 0.25 300);
+  --sidebar-accent-foreground: oklch(1 0 0);
+  --sidebar-border: oklch(0.2 0 0);
+  --sidebar-ring: oklch(0.65 0.15 130 / 0.5);
+}
+
+@theme inline {
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+    /* Added RTX gradient background */
+    background: var(--gradient-hero);
+  }
+
+  /* Added RTX utility classes for gradients and glows */
+  .gradient-rtx {
+    background: var(--gradient-rtx);
+  }
+
+  .gradient-rtx-hover:hover {
+    background: var(--gradient-rtx-hover);
+  }
+
+  .gradient-card {
+    background: var(--gradient-card);
+  }
+
+  .glow-green {
+    box-shadow: var(--glow-green);
+  }
+
+  .glow-blue {
+    box-shadow: var(--glow-blue);
+  }
+
+  .glow-purple {
+    box-shadow: var(--glow-purple);
+  }
+
+  .rtx-border {
+    border: 1px solid transparent;
+    background: linear-gradient(var(--gradient-card)) padding-box, var(--gradient-rtx) border-box;
+  }
+}
