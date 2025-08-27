@@ -18,6 +18,27 @@ from .views import (
     AgentDownloadView,
 )
 
+from rest_framework.response import Response
+from rest_framework.permissions import AllowAny
+from rest_framework.views import APIView
+
+
+class ApiRoot(APIView):
+    """Simple public API root to return helpful endpoints."""
+    permission_classes = [AllowAny]
+
+    def get(self, request):
+        return Response({
+            'message': 'Welcome to the Labhya API',
+            'routes': {
+                'gpus_available': '/api/gpus/available/',
+                'agent_download': '/api/agent/download/',
+                'auth_login': '/api/auth/login/',
+                'register_renter': '/api/auth/register/renter/',
+                'register_host': '/api/auth/register/host/',
+            }
+        })
+
 router = DefaultRouter()
 router.register(r'renters', RenterViewSet, basename='renter')
 router.register(r'hosts', HostViewSet, basename='host')
@@ -37,6 +58,8 @@ urlpatterns = [
     path('auth/refresh/', TokenRefreshView.as_view(), name='jwt-refresh'),
     path('auth/register/renter/', RegisterRenterView.as_view(), name='register-renter'),
     path('auth/register/host/', RegisterHostView.as_view(), name='register-host'),
+    # Public root for tooling and health checks (before router so it matches /api/)
+    path('', ApiRoot.as_view(), name='api-root'),
     # Router endpoints (must come last)
     path('', include(router.urls)),
 ]
