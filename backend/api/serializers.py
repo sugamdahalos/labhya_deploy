@@ -1,6 +1,7 @@
 from rest_framework import serializers
 from django.contrib.auth.models import User
 from .models import Renter, Host, Wallet, Transaction, GPU, Session
+from .models import HostKey
 
 
 class UserPublicSerializer(serializers.ModelSerializer):
@@ -75,6 +76,29 @@ class TransactionSerializer(serializers.ModelSerializer):
 
 
 class GPUSerializer(serializers.ModelSerializer):
+    host_name = serializers.SerializerMethodField()
+    
+    class Meta:
+        model = GPU
+        fields = ['id', 'host', 'host_name', 'gpu_name', 'gpu_model', 'gpu_memory', 'gpu_price', 'gpu_availability', 'gpu_location', 'created_at', 'updated_at']
+        read_only_fields = ['id', 'created_at', 'updated_at']
+
+    def get_host_name(self, obj):
+        return obj.host.user.get_full_name() or obj.host.user.username
+
+
+class HostKeySerializer(serializers.ModelSerializer):
+    host = HostSerializer(read_only=True)
+
+    class Meta:
+        model = HostKey
+        fields = ['id', 'host', 'public_key', 'status', 'created_at', 'approved_at', 'approved_by']
+        read_only_fields = ['id', 'host', 'status', 'created_at', 'approved_at', 'approved_by']
+
+
+class GPUDetailSerializer(serializers.ModelSerializer):
+    """Serializer with full host information for marketplace"""
+    host = HostSerializer(read_only=True)
     host_name = serializers.SerializerMethodField()
     
     class Meta:
@@ -182,6 +206,7 @@ class SessionDetailSerializer(serializers.ModelSerializer):
         fields = [
             'id', 'gpu', 'renter', 'host', 'start_time', 'end_time', 'status',
             'connection_status', 'ssh_host', 'ssh_port', 'ssh_username',
+            'ssh_password',
             'connection_error', 'last_connected', 'gpu_utilization',
             'memory_utilization', 'temperature', 'is_auto_reconnect',
             'payment_transaction', 'total_cost', 'ssh_connection_string',
@@ -211,14 +236,36 @@ class SessionCreateSerializer(serializers.ModelSerializer):
     class Meta:
         model = Session
         fields = [
-            'gpu', 'renter', 'host', 'start_time', 'ssh_host', 'ssh_port',
-            'ssh_username', 'ssh_password', 'is_auto_reconnect'
+            'gpu', 'start_time', 'ssh_username', 'ssh_port'
         ]
-        extra_kwargs = {
-            'ssh_password': {'write_only': True}
-        }
     
     def validate(self, data):
+        # Auto-set renter from authenticated user
+        user = self.context['request'].user
+        try:
+            renter = user.renter_profile
+            data['renter'] = renter
+        except:
+            raise serializers.ValidationError("User does not have a renter profile")
+        
+        # Auto-set host from GPU
+        if 'gpu' in data:
+            data['host'] = data['gpu'].host
+        
+        # Set default SSH values if not provided
+        if not data.get('ssh_username'):
+            data['ssh_username'] = 'ubuntu'
+        if not data.get('ssh_port'):
+            data['ssh_port'] = 22
+
+        # Do NOT auto-set ssh_host or ssh_password here.
+        # The agent is responsible for provisioning the container/SSH and updating
+        # the session via the update_connection_status endpoint. Leaving these
+        # as None ensures the backend does not try to create bogus tunnels.
+        data['ssh_host'] = None
+        data['ssh_password'] = None
+        data['is_auto_reconnect'] = True
+        
         # Check if GPU is available
         if not data['gpu'].gpu_availability:
             raise serializers.ValidationError("GPU is not available for rent")
@@ -235,12 +282,26 @@ class SessionCreateSerializer(serializers.ModelSerializer):
 
 
 class SessionUpdateSerializer(serializers.ModelSerializer):
+    # Allow agents to send container_id in PATCH requests even though it's
+    # not stored on the Session model. Keep it write-only so it doesn't
+    # leak in read responses.
+    container_id = serializers.CharField(required=False, write_only=True)
+
     class Meta:
         model = Session
         fields = [
             'end_time', 'status', 'connection_status', 'connection_error',
-            'gpu_utilization', 'memory_utilization', 'temperature'
+            'gpu_utilization', 'memory_utilization', 'temperature',
+            'ssh_host', 'ssh_port', 'ssh_username', 'ssh_password', 'container_id'
         ]
+        # Allow updating SSH/connection details via PATCH
+        extra_kwargs = {
+            'ssh_host': {'required': False},
+            'ssh_port': {'required': False},
+            'ssh_username': {'required': False},
+            'ssh_password': {'required': False, 'write_only': True},
+            'container_id': {'required': False}
+        }
 
 
 class WalletTransactionSerializer(serializers.ModelSerializer):

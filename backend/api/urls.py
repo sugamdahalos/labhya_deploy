@@ -11,9 +11,11 @@ from .views import (
     SessionViewSet,
     DashboardStatsView,
     AvailableGPUsView,
+    TunnelManagementView,
     RegisterRenterView,
     RegisterHostView,
     EmailTokenObtainPairView,
+    AgentDownloadView,
 )
 
 router = DefaultRouter()
@@ -28,6 +30,8 @@ urlpatterns = [
     # Custom endpoints (must come before router to avoid conflicts)
     path('gpus/available/', AvailableGPUsView.as_view(), name='available-gpus'),
     path('dashboard/stats/', DashboardStatsView.as_view(), name='dashboard-stats'),
+    path('tunnels/manage/', TunnelManagementView.as_view(), name='tunnel-management'),
+    path('agent/download/', AgentDownloadView.as_view(), name='agent-download'),
     # JWT Authentication endpoints (email-based login)
     path('auth/login/', EmailTokenObtainPairView.as_view(), name='jwt-login'),
     path('auth/refresh/', TokenRefreshView.as_view(), name='jwt-refresh'),

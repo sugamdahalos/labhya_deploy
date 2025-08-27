@@ -329,3 +329,26 @@ class Session(models.Model):
             'end_time': self.end_time,
         }
 
+
+class HostKey(models.Model):
+    """Stores SSH public keys submitted by hosts/agents for operator approval"""
+    STATUS_CHOICES = [
+        ('PENDING', 'Pending'),
+        ('APPROVED', 'Approved'),
+        ('REJECTED', 'Rejected'),
+    ]
+
+    id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
+    host = models.ForeignKey(Host, on_delete=models.CASCADE, related_name='keys')
+    public_key = models.TextField()
+    status = models.CharField(max_length=20, choices=STATUS_CHOICES, default='PENDING')
+    created_at = models.DateTimeField(auto_now_add=True)
+    approved_at = models.DateTimeField(null=True, blank=True)
+    approved_by = models.ForeignKey(User, null=True, blank=True, on_delete=models.SET_NULL)
+    # Deployment status recorded when backend deployer installs the public key on tunnel host
+    deployment_status = models.CharField(max_length=20, null=True, blank=True)
+    deployment_log = models.TextField(blank=True, null=True)
+
+    def __str__(self):
+        return f"HostKey {self.id} - {self.host.user.username} - {self.status}"
+
