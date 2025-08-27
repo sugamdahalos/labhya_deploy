@@ -5757,3 +5757,1235 @@ Exception Value: no such table: api_hostkey
 2025-08-27 11:13:07,313 - __main__ - WARNING - Session polling failed: 403
 2025-08-27 11:13:12,318 - __main__ - WARNING - Session polling failed: 403
 2025-08-27 11:13:17,323 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:13:22,327 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:13:23,691 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:13:27,333 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:13:32,339 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:13:37,343 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:13:42,348 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:13:47,354 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:13:52,359 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:13:55,406 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:13:57,363 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:14:02,368 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:14:07,373 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:14:12,378 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:14:17,382 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:14:22,387 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:14:27,140 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:14:27,392 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:14:32,399 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:14:37,407 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:14:42,412 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:14:47,419 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:14:52,426 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:14:57,431 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:14:58,897 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:15:02,435 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:15:07,440 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:15:12,446 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:15:17,450 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:15:22,454 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:15:27,459 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:15:30,629 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:15:32,463 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:15:37,467 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:15:42,474 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:15:47,479 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:15:52,487 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:15:57,491 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:16:02,359 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:16:02,496 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:16:07,504 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:16:12,511 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:16:17,518 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:16:22,522 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:16:27,527 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:16:32,531 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:16:34,121 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:16:37,536 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:16:42,541 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:16:47,546 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:16:52,550 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:16:57,559 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:17:02,572 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:17:05,888 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:17:07,579 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:17:12,584 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:17:17,594 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:17:22,600 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:17:27,607 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:17:32,616 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:17:37,623 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:17:37,642 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:17:42,632 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:17:47,640 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:17:52,648 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:17:57,655 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:18:02,664 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:18:07,674 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:18:09,433 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:18:12,684 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:18:17,693 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:18:22,697 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:18:27,704 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:18:32,713 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:18:37,721 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:18:41,227 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:18:42,730 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:18:47,739 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:18:52,747 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:18:57,755 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:19:02,762 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:19:07,771 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:19:12,778 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:19:12,977 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:19:17,785 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:19:22,791 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:19:27,798 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:19:32,806 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:19:37,815 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:19:42,823 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:19:44,756 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:19:47,829 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:19:52,834 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:19:57,839 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:20:02,844 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:20:07,849 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:20:12,853 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:20:16,548 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:20:17,858 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:20:22,864 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:20:27,869 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:20:32,874 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:20:37,879 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:20:42,884 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:20:47,889 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:20:48,342 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:20:52,894 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:20:57,901 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:21:02,909 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:21:07,917 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:21:12,924 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:21:17,931 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:21:20,142 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:21:22,939 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:21:27,947 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:21:32,957 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:21:37,967 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:21:42,972 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:21:47,976 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:21:51,940 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:21:52,982 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:21:57,986 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:22:02,990 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:22:07,994 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:22:13,001 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:22:18,008 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:22:23,017 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:22:23,709 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:22:28,024 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:22:33,032 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:22:38,037 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:22:43,043 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:22:48,051 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:22:53,058 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:22:55,456 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:22:58,066 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:23:03,072 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:23:08,076 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:23:13,081 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:23:18,089 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:23:23,097 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:23:27,228 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:23:28,104 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:23:33,111 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:23:38,116 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:23:43,120 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:23:48,128 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:23:53,132 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:23:58,137 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:23:59,004 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:24:03,144 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:24:08,150 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:24:13,156 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:24:18,163 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:24:23,170 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:24:28,179 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:24:30,779 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:24:33,188 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:24:38,195 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:24:43,200 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:24:48,208 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:24:53,218 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:24:58,224 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:25:02,562 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:25:03,230 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:25:08,235 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:25:13,240 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:25:18,245 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:25:23,250 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:25:28,257 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:25:33,262 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:25:34,329 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:25:38,267 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:25:43,273 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:25:48,280 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:25:53,287 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:25:58,294 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:26:03,302 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:26:06,101 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:26:08,309 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:26:13,316 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:26:18,323 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:26:23,333 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:26:28,340 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:26:33,347 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:26:37,880 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:26:38,354 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:26:43,361 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:26:48,369 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:26:53,376 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:26:58,383 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:27:03,391 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:27:08,396 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:27:09,617 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:27:13,401 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:27:18,408 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:27:23,412 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:27:28,417 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:27:33,421 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:27:38,426 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:27:41,384 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:27:43,433 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:27:48,439 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:27:53,446 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:27:58,454 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:28:03,461 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:28:08,466 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:28:13,146 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:28:13,473 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:28:18,478 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:28:23,483 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:28:28,488 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:28:33,493 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:28:38,500 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:28:43,504 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:28:44,900 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:28:48,509 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:28:53,517 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:28:58,525 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:29:03,530 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:29:08,535 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:29:13,540 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:29:16,655 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:29:18,547 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:29:23,553 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:29:28,558 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:29:33,562 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:29:38,569 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:29:43,575 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:29:48,390 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:29:48,581 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:29:53,585 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:29:58,593 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:30:03,600 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:30:08,608 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:30:13,616 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:30:18,623 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:30:20,151 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:30:23,631 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:30:28,640 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:30:33,648 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:30:38,655 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:30:43,664 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:30:48,669 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:30:52,053 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:30:53,673 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:30:58,677 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:31:03,682 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:31:08,687 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:31:13,692 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:31:18,702 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:31:23,710 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:31:23,808 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:31:28,715 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:31:33,722 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:31:38,727 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:31:43,732 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:31:48,739 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:31:53,745 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:31:55,571 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:31:58,751 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:32:03,759 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:32:08,764 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:32:13,769 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:32:18,775 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:32:23,780 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:32:27,345 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:32:28,788 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:32:33,793 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:32:38,802 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:32:43,810 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:32:48,817 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:32:53,826 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:32:58,834 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:32:59,084 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:33:03,841 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:33:08,848 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:33:13,853 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:33:18,862 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:33:23,866 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:33:28,871 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:33:30,834 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:33:33,877 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:33:38,884 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:33:43,891 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:33:48,897 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:33:53,903 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:33:58,909 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:34:02,570 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:34:03,914 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:34:08,919 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:34:13,923 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:34:18,928 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:34:23,934 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:34:28,940 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:34:33,947 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:34:34,334 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:34:38,953 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:34:43,960 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:34:48,965 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:34:53,974 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:34:58,980 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:35:03,985 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:35:06,079 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:35:08,989 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:35:13,994 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:35:19,000 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:35:24,007 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:35:29,015 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:35:34,023 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:35:37,828 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:35:39,031 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:35:44,040 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:35:49,045 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:35:54,049 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:35:59,055 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:36:04,061 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:36:09,066 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:36:09,571 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:36:14,070 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:36:19,075 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:36:24,079 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:36:29,084 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:36:34,091 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:36:39,099 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:36:41,359 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:36:44,104 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:36:49,110 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:36:54,115 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:36:59,124 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:37:04,130 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:37:09,137 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:37:13,133 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:37:14,145 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:37:19,154 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:37:24,160 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:37:29,169 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:37:34,177 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:37:39,182 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:37:44,187 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:37:44,881 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:37:49,191 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:37:54,196 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:37:59,201 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:38:04,208 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:38:09,215 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:38:14,221 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:38:16,626 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:38:19,228 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:38:24,233 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:38:29,237 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:38:34,246 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:38:39,253 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:38:44,260 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:38:48,421 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:38:49,269 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:38:54,275 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:38:59,282 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:39:04,289 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:39:09,294 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:39:14,302 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:39:19,309 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:39:20,188 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:39:24,316 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:39:29,325 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:39:34,330 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:39:39,335 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:39:44,339 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:39:49,344 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:39:51,963 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:39:54,351 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:39:59,356 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:40:04,360 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:40:09,369 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:40:14,376 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:40:19,384 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:40:23,741 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:40:24,392 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:40:29,400 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:40:34,409 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:40:39,416 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:40:44,424 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:40:49,431 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:40:54,438 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:40:55,496 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:40:59,447 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:41:04,455 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:41:09,461 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:41:14,469 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:41:19,477 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:41:24,485 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:41:27,260 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:41:29,495 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:41:34,500 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:41:39,507 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:41:44,516 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:41:49,524 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:41:54,532 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:41:59,046 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:41:59,540 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:42:04,547 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:42:09,555 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:42:14,560 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:42:19,564 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:42:24,571 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:42:29,576 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:42:30,830 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:42:34,580 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:42:39,585 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:42:44,589 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:42:49,594 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:42:54,599 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:42:59,603 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:43:02,592 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:43:04,608 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:43:09,612 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:43:14,617 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:43:19,622 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:43:24,627 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:43:29,631 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:43:34,548 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:43:34,643 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:43:39,649 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:43:44,654 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:43:49,660 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:43:54,667 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:43:59,672 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:44:04,678 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:44:06,338 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:44:09,687 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:44:14,692 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:44:19,699 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:44:24,703 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:44:29,709 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:44:34,715 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:44:38,200 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:44:39,720 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:44:44,728 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:44:49,734 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:44:54,743 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:44:59,753 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:45:04,762 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:45:09,769 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:45:10,000 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:45:14,773 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:45:19,778 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:45:24,782 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:45:29,787 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:45:34,792 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:45:39,796 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:45:41,797 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:45:44,800 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:45:49,805 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:45:54,813 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:45:59,820 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:46:04,828 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:46:09,833 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:46:13,539 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:46:14,838 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:46:19,843 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:46:24,847 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:46:29,854 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:46:34,862 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:46:39,870 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:46:44,877 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:46:45,303 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:46:49,885 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:46:54,893 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:46:59,901 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:47:04,909 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:47:09,916 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:47:14,923 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:47:17,091 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:47:19,932 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:47:24,939 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:47:29,946 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:47:34,954 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:47:39,963 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:47:44,971 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:47:48,886 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:47:49,978 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:47:54,985 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:47:59,993 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:48:05,000 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:48:10,009 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:48:15,016 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:48:20,023 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:48:20,680 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:48:25,031 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:48:30,038 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:48:35,048 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:48:40,055 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:48:45,062 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:48:50,070 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:48:52,464 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:48:55,078 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:49:00,083 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:49:05,087 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:49:10,092 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:49:15,096 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:49:20,100 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:49:24,241 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:49:25,106 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:49:30,110 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:49:35,114 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:49:40,119 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:49:45,125 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:49:50,131 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:49:55,138 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:49:56,005 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:50:00,144 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:50:05,152 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:50:10,160 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:50:15,166 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:50:20,176 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:50:25,185 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:50:27,753 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:50:30,192 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:50:35,200 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:50:40,207 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:50:45,215 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:50:50,222 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:50:55,230 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:50:59,537 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:51:00,237 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:51:05,245 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:51:10,252 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:51:15,258 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:51:20,263 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:51:25,268 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:51:30,272 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:51:31,299 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:51:35,279 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:51:40,287 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:51:45,294 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:51:50,300 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:51:55,308 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:52:00,313 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:52:03,064 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:52:05,319 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:52:10,327 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:52:15,336 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:52:20,342 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:52:25,348 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:52:30,352 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:52:34,822 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:52:35,359 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:52:40,366 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:52:45,376 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:52:50,382 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:52:55,390 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:53:00,398 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:53:05,402 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:53:06,579 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:53:10,407 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:53:15,414 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:53:20,422 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:53:25,430 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:53:30,438 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:53:35,446 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:53:38,335 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:53:40,453 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:53:45,463 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:53:50,470 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:53:55,476 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:54:00,483 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:54:05,490 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:54:10,096 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:54:10,498 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:54:15,504 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:54:20,511 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:54:25,515 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:54:30,520 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:54:35,524 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:54:40,529 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:54:41,833 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:54:45,533 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:54:50,538 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:54:55,543 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:55:00,547 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:55:05,552 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:55:10,556 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:55:13,575 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:55:15,561 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:55:20,565 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:55:25,570 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:55:30,574 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:55:35,579 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:55:40,583 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:55:45,310 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:55:45,588 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:55:50,593 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:55:55,597 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:56:00,602 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:56:05,607 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:56:10,614 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:56:15,619 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:56:17,060 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:56:20,623 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:56:25,628 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:56:30,632 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:56:35,640 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:56:40,646 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:56:45,650 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:56:48,815 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:56:50,656 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:56:55,661 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:57:00,666 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:57:05,671 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:57:10,676 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:57:15,681 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:57:20,559 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:57:20,685 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:57:25,690 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:57:30,695 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:57:35,699 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:57:40,704 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:57:45,708 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:57:50,716 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:57:52,329 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:57:55,723 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:58:00,731 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:58:05,739 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:58:10,747 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:58:15,754 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:58:20,761 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:58:24,112 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:58:25,769 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:58:30,777 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:58:35,784 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:58:40,791 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:58:45,796 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:58:50,802 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:58:55,809 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:58:55,878 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:59:00,816 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:59:05,825 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:59:10,832 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:59:15,839 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:59:20,845 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:59:25,849 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:59:27,644 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 11:59:30,853 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:59:35,858 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:59:40,866 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:59:45,870 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:59:50,877 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:59:55,882 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:59:59,409 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:00:00,887 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:00:05,894 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:00:10,901 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:00:15,906 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:00:20,911 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:00:25,915 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:00:30,920 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:00:31,149 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:00:35,925 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:00:40,929 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:00:45,935 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:00:50,939 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:00:55,947 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:01:00,955 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:01:02,905 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:01:05,962 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:01:10,971 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:01:15,978 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:01:20,985 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:01:25,993 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:01:31,000 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:01:34,686 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:01:36,008 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:01:41,015 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:01:46,023 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:01:51,030 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:01:56,034 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:02:01,042 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:02:06,049 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:02:06,457 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:02:11,057 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:02:16,062 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:02:21,066 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:02:26,075 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:02:31,083 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:02:36,090 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:02:38,226 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:02:41,098 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:02:46,108 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:02:51,115 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:02:56,125 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:03:01,131 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:03:06,141 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:03:10,018 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:03:11,150 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:03:16,159 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:03:21,167 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:03:26,175 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:03:31,182 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:03:36,191 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:03:41,198 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:03:41,788 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:03:46,206 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:03:51,216 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:03:56,223 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:04:01,231 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:04:06,238 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:04:11,245 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:04:13,591 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:04:16,255 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:04:21,259 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:04:26,264 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:04:31,268 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:04:36,273 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:04:41,277 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:04:45,371 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:04:46,282 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:04:51,287 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:04:56,291 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:05:01,296 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:05:06,302 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:05:11,310 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:05:16,318 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:05:17,161 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:05:21,322 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:05:26,327 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:05:31,332 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:05:36,336 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:05:41,340 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:05:46,344 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:05:48,950 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:05:51,352 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:05:56,359 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:06:01,364 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:06:06,369 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:06:11,373 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:06:16,378 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:06:20,693 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:06:21,382 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:06:26,387 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:06:31,392 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:06:36,396 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:06:41,403 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:06:46,411 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:06:51,415 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:06:52,461 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:06:56,423 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:07:01,430 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:07:06,437 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:07:11,443 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:07:16,451 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:07:21,458 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:07:24,264 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:07:26,465 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:07:31,471 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:07:36,475 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:07:41,480 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:07:46,487 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:07:51,494 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:07:56,042 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:07:56,500 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:08:01,506 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:08:06,511 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:08:11,515 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:08:16,519 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:08:21,525 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:08:26,530 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:08:27,814 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:08:31,534 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:08:36,539 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:08:41,543 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:08:46,551 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:08:51,555 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:08:56,560 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:08:59,584 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:09:01,567 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:09:06,575 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:09:11,582 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:09:16,590 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:09:21,597 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:09:26,605 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:09:31,372 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:09:31,612 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:09:36,616 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:09:41,621 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:09:46,626 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:09:51,633 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:09:56,640 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:10:01,648 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:10:03,159 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:10:06,655 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:10:11,664 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:10:16,672 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:10:21,679 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:10:26,686 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:10:31,693 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:10:34,944 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:10:36,698 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:10:41,703 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:10:46,710 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:10:51,717 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:10:56,725 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:11:01,732 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:11:06,712 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:11:06,740 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:11:11,747 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:11:16,755 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:11:21,762 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:11:26,766 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:11:31,771 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:11:36,776 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:11:38,450 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:11:41,781 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:11:46,785 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:11:51,790 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:11:56,798 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:12:01,806 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:12:06,813 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:12:10,244 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:12:11,821 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:12:16,828 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:12:21,835 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:12:26,843 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:12:31,850 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:12:36,857 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:12:41,865 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:12:41,975 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:12:46,872 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:12:51,879 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:12:56,886 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:13:01,893 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:13:06,901 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:13:11,908 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:13:13,739 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:13:16,917 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:13:21,925 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:13:26,930 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:13:31,935 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:13:36,942 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:13:41,947 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:13:45,463 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:13:46,951 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:13:51,956 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:13:56,960 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:14:01,965 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:14:06,970 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:14:11,977 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:14:16,983 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:14:17,215 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:14:21,987 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:14:26,992 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:14:31,996 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:14:37,002 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:14:42,006 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:14:47,011 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:14:48,953 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:14:52,018 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:14:57,023 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:15:02,028 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:15:07,034 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:15:12,038 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:15:17,043 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:15:20,687 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:15:22,047 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:15:27,052 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:15:32,057 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:15:37,063 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:15:42,070 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:15:47,074 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:15:52,078 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:15:52,435 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:15:57,083 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:16:02,090 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:16:07,099 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:16:12,108 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:16:17,116 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:16:22,125 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:16:24,214 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:16:27,133 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:16:32,142 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:16:37,150 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:16:42,158 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:16:47,164 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:16:52,171 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:16:55,973 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:16:57,179 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:17:02,186 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:17:07,194 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:17:12,202 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:17:17,211 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:17:22,219 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:17:27,225 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:17:27,739 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:17:32,233 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:17:37,242 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:17:42,248 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:17:47,256 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:17:52,263 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:17:57,273 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:17:59,529 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:18:02,277 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:18:07,281 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:18:12,290 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:18:17,295 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:18:22,299 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:18:27,303 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:18:31,300 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:18:32,308 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:18:37,313 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:18:42,317 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:18:47,322 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:18:52,327 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:18:57,331 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:19:02,337 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:19:03,058 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:19:07,343 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:19:12,348 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:19:17,356 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:19:22,363 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:19:27,372 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:19:32,379 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:19:34,832 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:19:37,388 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:19:42,392 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:19:47,398 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:19:52,403 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:19:57,410 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:20:02,415 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:20:06,618 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:20:07,424 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:20:12,431 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:20:17,439 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:20:22,446 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:20:27,454 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:20:32,462 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:20:37,466 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:20:38,382 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:20:42,471 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:20:47,478 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:20:52,482 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:20:57,486 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:21:02,491 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:21:07,496 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:21:10,154 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:21:12,500 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:21:17,507 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:21:22,513 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:21:27,519 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:21:32,527 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:21:37,534 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:21:41,918 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:21:42,541 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:21:47,548 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:21:52,554 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:21:57,559 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:22:02,563 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:22:07,570 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:22:12,579 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:22:13,701 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:22:17,586 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:22:22,591 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:22:27,597 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:22:32,602 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:22:37,606 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:22:42,611 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:22:45,453 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:22:47,619 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:22:52,623 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:22:57,629 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:23:02,636 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:23:07,643 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:23:12,649 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:23:17,231 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:23:17,653 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:23:22,658 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:23:27,663 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:23:32,668 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:23:37,673 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:23:42,677 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:23:47,681 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:23:48,987 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:23:52,688 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:23:57,695 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:24:02,702 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:24:07,710 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:24:12,719 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:24:17,725 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:24:20,763 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:24:22,730 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:24:27,734 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:24:32,738 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:24:37,743 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:24:42,747 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:24:47,754 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:24:52,548 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:24:52,761 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:24:57,770 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:25:02,778 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:25:07,785 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:25:12,795 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:25:17,802 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:25:22,811 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:25:24,325 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:25:27,819 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:25:32,828 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:25:37,836 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:25:42,843 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:25:47,851 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:25:52,858 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:25:56,096 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:25:57,866 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:26:02,873 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:26:07,881 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:26:12,887 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:26:17,896 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:26:22,903 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:26:27,883 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:26:27,909 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:26:32,915 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:26:37,919 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:26:42,924 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:26:47,931 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:26:52,939 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:26:57,946 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:26:59,672 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:27:02,953 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:27:07,959 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:27:12,963 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:27:17,972 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:27:22,979 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:27:27,988 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:27:31,450 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:27:32,997 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:27:38,003 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:27:43,008 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:27:48,012 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:27:53,018 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:27:58,023 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:28:03,028 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:28:03,214 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:28:08,034 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:28:13,041 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:28:18,048 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:28:23,057 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:28:28,063 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:28:33,070 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:28:34,998 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:28:38,078 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:28:43,085 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:28:48,094 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:28:53,098 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:28:58,103 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:29:03,110 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:29:06,761 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:29:08,115 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:29:13,119 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:29:18,127 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:29:23,134 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:29:28,139 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:29:33,145 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:29:38,150 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:29:38,565 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:29:43,157 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:29:48,165 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:29:53,173 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:29:58,181 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:30:03,186 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:30:08,191 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:30:10,324 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:30:13,196 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:30:18,200 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:30:23,204 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:30:28,208 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:30:33,213 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:30:38,219 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:30:42,084 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:30:43,223 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:30:48,227 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:30:53,232 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:30:58,236 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:31:03,244 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:31:08,249 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:31:13,254 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:31:13,843 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:31:18,258 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:31:23,263 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:31:28,267 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:31:33,271 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:31:38,278 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:31:43,285 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:31:45,605 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:31:48,290 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:31:53,295 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:31:58,299 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:32:03,304 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:32:08,312 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:32:13,320 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:32:17,371 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:32:18,325 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:32:23,331 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:32:28,335 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:32:33,340 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:32:38,347 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:32:43,351 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:32:48,356 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:32:49,113 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:32:53,360 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:32:58,365 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:33:03,370 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:33:08,376 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:33:13,380 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:33:18,384 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:33:20,874 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:33:23,389 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:33:28,394 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:33:33,399 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:33:38,403 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:33:43,410 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:33:48,418 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:33:52,639 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:33:53,426 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:33:58,433 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:34:03,437 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:34:08,441 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:34:13,446 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:34:18,451 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:34:23,456 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:34:24,386 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:34:28,464 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:34:33,471 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:34:38,476 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:34:43,483 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:34:48,493 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:34:53,500 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:34:56,150 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:34:58,506 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:35:03,514 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:35:08,521 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:35:13,526 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:35:18,531 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:35:23,536 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:35:27,919 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:35:28,540 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:35:33,548 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:35:38,559 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:35:43,563 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:35:48,570 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:35:53,575 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:35:58,584 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:35:59,697 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:36:03,592 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:36:08,597 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:36:13,601 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:36:18,610 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:36:23,618 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:36:28,627 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:36:31,452 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:36:33,630 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:36:38,636 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:36:43,640 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:36:48,645 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:36:53,650 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:36:58,654 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:37:03,218 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:37:03,661 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:37:08,669 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:37:13,676 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:37:18,684 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:37:23,692 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:37:28,699 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:37:33,706 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:37:34,996 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:37:38,714 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:37:43,720 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:37:48,728 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:37:53,735 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:37:58,742 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:38:03,752 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:38:06,772 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:38:08,760 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:38:13,764 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:38:18,769 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:38:23,773 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:38:28,782 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:38:33,789 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:38:38,564 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:38:38,798 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:38:43,806 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:38:48,817 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:38:53,827 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:38:58,836 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:39:03,845 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:39:08,853 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:39:10,364 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:39:13,857 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:39:18,864 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:39:23,873 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:39:28,880 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:39:33,889 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:39:38,899 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:39:42,166 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:39:43,907 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:39:48,914 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:39:53,922 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:39:58,929 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:40:03,936 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:40:08,944 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:40:13,955 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:40:16,042 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:40:18,965 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:40:23,972 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:40:28,980 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:40:33,987 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:40:38,997 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:40:44,005 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:40:47,822 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:40:49,013 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:40:54,022 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:40:59,030 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:41:04,036 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:41:09,043 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:41:14,052 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:41:19,060 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:41:19,618 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:41:24,069 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:41:29,077 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:41:34,082 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:41:39,088 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:41:44,095 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:41:49,100 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:41:51,408 - __main__ - WARNING - Failed to send metrics: 403
+2025-08-27 12:41:54,104 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:41:59,111 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 12:42:04,117 - __main__ - WARNING - Session polling failed: 403

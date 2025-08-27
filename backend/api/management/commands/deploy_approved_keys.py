@@ -14,8 +14,10 @@ class Command(BaseCommand):
             # allow host model to carry port config if present
             base_port = getattr(hk.host, 'ssh_tunnel_base_port', 22000)
             port_count = getattr(hk.host, 'ssh_tunnel_port_count', 1000)
+            # Prefer to run the deploy script via sudo (labhya user has NOPASSWD sudoers entry).
+            # This avoids permission denied issues when the script is owned by root.
             cmd = [
-                '/bin/bash', '/opt/labhya/deploy_tunnel_host.sh',
+                'sudo', '/opt/labhya/deploy_tunnel_host.sh',
                 pubkey, str(base_port), str(port_count)
             ]
             try:
