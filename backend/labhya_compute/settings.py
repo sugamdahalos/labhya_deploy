@@ -25,7 +25,18 @@ SECRET_KEY = "django-insecure-d%1f35fzt!x$*(v&+_j^tkmne6eka8u9sj#d3ox@-72p58ore$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+# Make ALLOWED_HOSTS configurable via environment variable for deployments.
+# If ALLOWED_HOSTS env var is set it should be a comma-separated list of hosts.
+# While developing (DEBUG=True) allow all hosts to avoid DisallowedHost errors
+# from agents or services using the public IP. In production set DEBUG=False and
+# provide a specific ALLOWED_HOSTS value.
+import os
+
+env_allowed = os.environ.get("ALLOWED_HOSTS")
+if env_allowed:
+    ALLOWED_HOSTS = [h.strip() for h in env_allowed.split(",") if h.strip()]
+else:
+    ALLOWED_HOSTS = ["*"] if DEBUG else []
 
 
 # Application definition
