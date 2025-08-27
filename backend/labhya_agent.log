@@ -5753,3 +5753,7 @@ Exception Value: no such table: api_hostkey
 2025-08-27 11:12:51,920 - __main__ - WARNING - Failed to send metrics: 403
 2025-08-27 11:12:52,299 - __main__ - WARNING - Session polling failed: 403
 2025-08-27 11:12:57,303 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:13:02,308 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:13:07,313 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:13:12,318 - __main__ - WARNING - Session polling failed: 403
+2025-08-27 11:13:17,323 - __main__ - WARNING - Session polling failed: 403

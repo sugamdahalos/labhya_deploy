@@ -5192,3 +5192,7 @@ WARNING 2025-08-27 11:12:47,294 basehttp 36800 7752 "GET /api/hosts/8cc66339-f8b
 WARNING 2025-08-27 11:12:51,920 basehttp 36800 7752 "POST /api/sessions/c7d408a6-9028-4602-9abc-b2c1b3f66226/update_gpu_metrics/ HTTP/1.1" 403 172
 WARNING 2025-08-27 11:12:52,298 basehttp 36800 7752 "GET /api/hosts/8cc66339-f8bb-43ef-affe-4bc0c0307728/sessions/ HTTP/1.1" 403 172
 WARNING 2025-08-27 11:12:57,303 basehttp 36800 7752 "GET /api/hosts/8cc66339-f8bb-43ef-affe-4bc0c0307728/sessions/ HTTP/1.1" 403 172
+WARNING 2025-08-27 11:13:02,308 basehttp 36800 7752 "GET /api/hosts/8cc66339-f8bb-43ef-affe-4bc0c0307728/sessions/ HTTP/1.1" 403 172
+WARNING 2025-08-27 11:13:07,313 basehttp 36800 7752 "GET /api/hosts/8cc66339-f8bb-43ef-affe-4bc0c0307728/sessions/ HTTP/1.1" 403 172
+WARNING 2025-08-27 11:13:12,318 basehttp 36800 7752 "GET /api/hosts/8cc66339-f8bb-43ef-affe-4bc0c0307728/sessions/ HTTP/1.1" 403 172
+WARNING 2025-08-27 11:13:17,322 basehttp 36800 7752 "GET /api/hosts/8cc66339-f8bb-43ef-affe-4bc0c0307728/sessions/ HTTP/1.1" 403 172
